@@ -31,3 +31,9 @@ The detector should turn to *12 o'clock direction*
 # 6) Testing.  
 ![N|Solid](https://github.com/umzr/how-to-hack-brother-printer-toner-cartridge-/blob/main/hackprinter/20201204_214106.jpg?raw=true)  
 How come!!!???  
+Don't worried.  
+That means you are not turn the detector properly.  
+You should turn the detector beside the two plastic plates.
+![N|Solid](https://github.com/umzr/how-to-hack-brother-printer-toner-cartridge-/blob/main/hackprinter/20201204_215532ffff.jpg?raw=true) 
+Easy la...  
+# DONE. 

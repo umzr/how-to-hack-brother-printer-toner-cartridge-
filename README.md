@@ -1,9 +1,14 @@
 # how-to-hack-brother-printer-toner-cartridge-
 This is a tutorial that hack brother (xerox e.t.c.) printer toner cartridge  
+Brother HLL2375DW HLL2320D  
+Xerox m235dw  
+Any similiar to this cartridges, also can use this methods.  
 # 如何更換碳粉匣、將碳粉匣延長壽命、解鎖碳粉盒、環保  
-brother打印機 HLL2375DW HLL2320D ETC...  
+Brother打印機 HLL2375DW HLL2320D ETC...  
+Xerox m235dw  
+總之咁上下相似嘅碳粉盒就可以用呢個方法解鎖。  
 中文： 用螺絲拆咗佢. 擰反轉啲位。 之後reset就得㗎喇。  
-根本入面有好多碳粉用唔曬，啲奸商用到咁上下就物理鎖咗佢，搞到用唔到，咁用物理解返開去得啦。輕鬆。  
+根本入面有好多碳粉用唔曬，啲奸商SET 到部打印機用到咁上下就物理鎖咗佢，搞到用唔到，咁用物理解返開去得啦。輕鬆。  
 
 # 1) Check wheather it is the same cartridges  
 ![N|Solid](https://github.com/umzr/how-to-hack-brother-printer-toner-cartridge-/blob/main/hackprinter/20201204_212038.jpg )  
